@@ -1,5 +1,5 @@
 # Phonexfy
-A program created which turns a spotify that is full of ads and banners (which are annoying) into an ad free experience.
+A program created which turns  spotify that is full of ads and banners (which are annoying) into an ad free experience.
 The following files are virus free (no need to disable antivirus).
 
 THESE FILES ONLY WORK ON WINDOWS.
@@ -27,4 +27,6 @@ To block the ads follow these steps:
  # Conclusion
  Thanks for reading/downloading my files and projects.
  
- uWu
+                                                                                                
+                                                                                                                                                    - Aditya Mishra
+                                                                                                                                                      
