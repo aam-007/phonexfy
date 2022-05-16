@@ -1,21 +1,13 @@
-# Host-to-block-ads-for-spotify
-Español/Es
+# Phonexfy
+An program created which turns a spotify that is full of ads and banners (which are annoying) so I a frustrated programmer created a  crack.
+The following files are virus free (no need to disable antivirus).
 
-Para bloquear los anuncios sigue estos pasos:
+THESE FILES ONLY WORK ON WINDOWS.
 
-1. Descarga todos los archivos en tu computadora
+P.s. Spotify plz don't sue me
 
-2. Ejecuta el archivo Installing the latest version of Spotify without ads.bat, que instalará Spotify que contiene un bloqueador interno que bloquea algunos anuncios
 
-3. Inicia sesión en Spotify
-
-4. Ejecuta el archivo Spotify installation review.bat que revisará si se introdujo el bloqueador interno en Spotify
-
-5. Por último copia todo del archivo Host to block Spotify Ads.txt,  mueve el archivo host al escritorio del directorio: C:\Windows\System32\Drivers\etc y pega los host del documento de texto.
-
-6. ¡Listo!, tendrás los anuncios bloqueados.
-
-English/En
+# Steps for installation
 
 To block the ads follow these steps:
 
@@ -29,4 +21,10 @@ To block the ads follow these steps:
 
 5. Lastly, copy everything from the Host to block Spotify Ads.txt file, move the host file to the desktop from the directory: C:\Windows\System32\Drivers\etc and paste the hosts from the text document.
 
-6. Ready !, you will have the ads blocked.
+ Ready!, you will have the ads blocked.
+ 
+ 
+ # Conclusion
+ Thanks for reading/downloading my files and projects.
+ 
+ uWu
