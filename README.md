@@ -26,8 +26,37 @@ To block the ads follow these steps:
 
  Ready!, you will have the ads blocked.
  
+ # OR
+ You can just install the Brave Browser, see the steps below
  
- # Conclusion
+ Steps for the non tech people
+ 
+ 1. Go to open.spotify.com
+ 
+ 2. near the search bar for url you will see a lion icon or the brave icon.
+
+ 3. Click on the icon 
+ 
+ 4. Select "Advanced Controls"
+
+ 5. You will see a bar called "Block trackers and ads"
+
+ 6. Click the bar
+
+ 7. Select the first option, that is "Aggresively block trackers & ads"
+
+ 8. Now the page will refresh Automatically
+
+ 9. Now click on the Extreme right on your screen
+
+ 10. Done!
+ 
+Once all of these steps are completed you can listen to spotify with no ads!
+
+P.s. No need to do all these steps again if you relaunch open.spotify.com  because all the changes you made are automatically saved!
+
+# Conclusion
  Thanks for reading/downloading my files and projects.
+ Enjoy!
  
                                  
